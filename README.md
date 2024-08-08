@@ -13,3 +13,5 @@ Yelp is a community review site and an American multinational firm based in San 
    - Data Factory
    - Databricks
    - ADLS Gen2
+## Data used
+URL: https://www.yelp.com/dataset
