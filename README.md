@@ -13,5 +13,36 @@ Yelp is a community review site and an American multinational firm based in San 
    - Data Factory
    - Databricks
    - ADLS Gen2
+  
 ## Data used
 URL: https://www.yelp.com/dataset
+
+
+## Approach
+-   Read yelp datasets in ADLS and convert JSON to parquet for better performance.
+
+-   Convert JSON to Delta Format.
+
+-   Total records in each dataset.
+
+-   Partition tip dataset tip by a date column.
+
+-   Find the top 3 users based on their total number of reviews.
+
+-   Find the top 10 users with the most fans
+
+-   Analyse the top 10 categories by a number of reviews.
+
+-   Analyse top businesses which have over 1000 reviews.
+
+-   Analyse Business Data: Number of restaurants per state.
+
+-   Analyze the top 3 restaurants in each state.
+
+-   List the top restaurants in a state by the number of reviews.
+
+-   Numbers of restaurants in Arizona state per city.
+
+-   Broadcast Join: restaurants as per review ratings in Pheonix city.
+
+-   Most rated Italian restaurant in Pheonix.
