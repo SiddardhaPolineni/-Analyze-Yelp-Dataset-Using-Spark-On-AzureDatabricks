@@ -18,7 +18,7 @@ Yelp is a community review site and an American multinational firm based in San 
 URL: https://www.yelp.com/dataset
 
 
-## Approach
+## Approach and Analysis
 -   Read yelp datasets in ADLS and convert JSON to parquet for better performance.
 
 -   Convert JSON to Delta Format.
