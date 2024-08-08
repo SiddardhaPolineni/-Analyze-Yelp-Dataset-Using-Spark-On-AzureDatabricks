@@ -43,6 +43,6 @@ URL: https://www.yelp.com/dataset
 
 -   Numbers of restaurants in Arizona state per city.
 
--   Broadcast Join: restaurants as per review ratings in Pheonix city.
+-   Broadcast Join: restaurants as per review ratings in a city in Arizona.
 
--   Most rated Italian restaurant in Pheonix.
+-   Most rated Italian restaurant in Arizona State.
