@@ -9,4 +9,7 @@ Yelp is a community review site and an American multinational firm based in San 
 
 ## Tech Stack
 1. Programming Language: Python3, PySpark
-2. Service: Azure Data Factory, Azure Databricks, Azure Data Lake Storage Gen2 (ADLS Gen2)
+2. Azure Cloud:
+   - Data Factory
+   - Databricks
+   - ADLS Gen2
